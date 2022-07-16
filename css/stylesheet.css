@@ -3604,3 +3604,7 @@ body, html {
   .grecaptcha-badge { 
       visibility: hidden;
   }
+
+  .text-justify { 
+    text-align: justify;
+  }
